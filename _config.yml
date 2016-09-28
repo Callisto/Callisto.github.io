@@ -29,17 +29,17 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: sandhya.ramesh
+twitter: sandygrains
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
+#youtube: myyoutube
+#spotify: myspotify
+#github: mygithub
 medium: medium
-vimeo: myvimeo
+#vimeo: myvimeo
 email: myemail@gmail.com
 
 authors:
